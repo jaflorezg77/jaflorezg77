@@ -1,16 +1,47 @@
-## Hi there 👋
+# Javier Alberto Florez Gomez
 
-<!--
-**jaflorezg77/jaflorezg77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Desarrollador Full Stack
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Florez-blue)](https://www.linkedin.com/in/javier-alberto-florez-gomez-1243aa35/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mí
+
+Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovadoras y eficientes. Comprometido con el aprendizaje continuo y la mejora constante de habilidades técnicas.
+
+## 💼 Experiencia Profesional
+
+### Desarrollador Full Stack
+- Desarrollo de aplicaciones web utilizando tecnologías modernas
+- Implementación de soluciones backend robustas
+- Creación de interfaces de usuario intuitivas y responsivas
+
+## 🛠️ Habilidades Técnicas
+
+- **Frontend**: HTML5, CSS3, JavaScript, React
+- **Backend**: C#, .NET, ASP.NET
+- **Bases de Datos**: SQL Server, MongoDB
+- **Herramientas**: Git, Docker, AWS
+- **Metodologías**: Agile, Scrum
+
+## 📚 Educación
+
+- Ingeniería en Sistemas
+- Certificaciones en desarrollo web y tecnologías emergentes
+
+## 🌟 Proyectos Destacados
+
+- Desarrollo de aplicaciones web full stack
+- Implementación de soluciones cloud
+- Optimización de rendimiento y escalabilidad
+
+## 📫 Contacto
+
+- LinkedIn: [Javier Alberto Florez Gomez](https://www.linkedin.com/in/javier-alberto-florez-gomez-1243aa35/)
+
+---
+
+*"La tecnología es mejor cuando une a las personas" - Matt Mullenweg*
+
+---
+
+
