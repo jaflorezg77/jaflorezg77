@@ -16,9 +16,9 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovador
 - Creación de interfaces de usuario intuitivas y responsivas
 
 ###:zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:last_update-->
+<!--END_SECTION:activity-->
 ## 🛠️ Habilidades Técnicas
 
 - **Frontend**: HTML5, CSS3, JavaScript, React
