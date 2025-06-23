@@ -15,6 +15,10 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovador
 - Implementación de soluciones backend robustas
 - Creación de interfaces de usuario intuitivas y responsivas
 
+###:zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 ## 🛠️ Habilidades Técnicas
 
 - **Frontend**: HTML5, CSS3, JavaScript, React
