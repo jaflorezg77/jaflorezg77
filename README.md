@@ -15,7 +15,7 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovador
 - Implementación de soluciones backend robustas
 - Creación de interfaces de usuario intuitivas y responsivas
 
-###:zap: Actividad reciente
+### :zap: Actividad reciente
 <!--START_SECTION:activity-->
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [jaflorezg77/jaflorezg77](https://github.com/jaflorezg77/jaflorezg77)<br>
