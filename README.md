@@ -19,10 +19,10 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovador
 <!--START_SECTION:activity-->
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [jaflorezg77/jaflorezg77](https://github.com/jaflorezg77/jaflorezg77)<br>
-2. 📔 Created new repository [EscuelaJFG/.github](https://github.com/EscuelaJFG/.github)<br>
-3. ⬆️ Pushed 2 commit(s) to [jaflorezg77/RepoTest1](https://github.com/jaflorezg77/RepoTest1)<br>
-4. 🎉 Merged PR [#5](https://github.com/jaflorezg77/RepoTest1/pull/5) in [jaflorezg77/RepoTest1](https://github.com/jaflorezg77/RepoTest1)<br>
-5. ⬆️ Pushed 1 commit(s) to [jaflorezg77/RepoTest1](https://github.com/jaflorezg77/RepoTest1)<br>
+2. ⬆️ Pushed 1 commit(s) to [jaflorezg77/jaflorezg77](https://github.com/jaflorezg77/jaflorezg77)<br>
+3. ⬆️ Pushed 1 commit(s) to [jaflorezg77/jaflorezg77](https://github.com/jaflorezg77/jaflorezg77)<br>
+4. ⬆️ Pushed 1 commit(s) to [jaflorezg77/jaflorezg77](https://github.com/jaflorezg77/jaflorezg77)<br>
+5. ⬆️ Pushed 1 commit(s) to [jaflorezg77/jaflorezg77](https://github.com/jaflorezg77/jaflorezg77)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 ## 🛠️ Habilidades Técnicas
