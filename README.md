@@ -18,11 +18,11 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovador
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
   <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/jaflorezg77/TercerRepo/releases/tag/v0.1.0) in [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
-2. ⬆️ Pushed 1 commit(s) to [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
-3. 📔 Created new repository [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
-4. 🔱 Forked [jaflorezg77/AI4Devs-TDD-RO-1](https://github.com/jaflorezg77/AI4Devs-TDD-RO-1) from [LIDR-academy/AI4Devs-TDD-RO-1](https://github.com/LIDR-academy/AI4Devs-TDD-RO-1)<br>
-5. ⬆️ Pushed 1 commit(s) to [jaflorezg77/jaflorezg77](https://github.com/jaflorezg77/jaflorezg77)<br>
+1. 🔱 Forked [jaflorezg77/AI4Devs-DB-RO-1](https://github.com/jaflorezg77/AI4Devs-DB-RO-1) from [LIDR-academy/AI4Devs-DB-RO-1](https://github.com/LIDR-academy/AI4Devs-DB-RO-1)<br>
+2. ✌️ Released [v0.1.0](https://github.com/jaflorezg77/TercerRepo/releases/tag/v0.1.0) in [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
+3. ⬆️ Pushed 1 commit(s) to [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
+4. 📔 Created new repository [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
+5. 🔱 Forked [jaflorezg77/AI4Devs-TDD-RO-1](https://github.com/jaflorezg77/AI4Devs-TDD-RO-1) from [LIDR-academy/AI4Devs-TDD-RO-1](https://github.com/LIDR-academy/AI4Devs-TDD-RO-1)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 ## 🛠️ Habilidades Técnicas
