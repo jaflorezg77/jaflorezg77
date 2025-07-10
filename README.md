@@ -18,11 +18,11 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovador
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [jaflorezg77/AI4Devs-DB-RO-1](https://github.com/jaflorezg77/AI4Devs-DB-RO-1) from [LIDR-academy/AI4Devs-DB-RO-1](https://github.com/LIDR-academy/AI4Devs-DB-RO-1)<br>
-2. ✌️ Released [v0.1.0](https://github.com/jaflorezg77/TercerRepo/releases/tag/v0.1.0) in [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
-3. ⬆️ Pushed 1 commit(s) to [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
-4. 📔 Created new repository [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
-5. 🔱 Forked [jaflorezg77/AI4Devs-TDD-RO-1](https://github.com/jaflorezg77/AI4Devs-TDD-RO-1) from [LIDR-academy/AI4Devs-TDD-RO-1](https://github.com/LIDR-academy/AI4Devs-TDD-RO-1)<br>
+1. 🔱 Forked [jaflorezg77/AI4Devs-BACKEND-RO-1](https://github.com/jaflorezg77/AI4Devs-BACKEND-RO-1) from [LIDR-academy/AI4Devs-BACKEND-RO-1](https://github.com/LIDR-academy/AI4Devs-BACKEND-RO-1)<br>
+2. 🔱 Forked [jaflorezg77/AI4Devs-DB-RO-1](https://github.com/jaflorezg77/AI4Devs-DB-RO-1) from [LIDR-academy/AI4Devs-DB-RO-1](https://github.com/LIDR-academy/AI4Devs-DB-RO-1)<br>
+3. ✌️ Released [v0.1.0](https://github.com/jaflorezg77/TercerRepo/releases/tag/v0.1.0) in [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
+4. ⬆️ Pushed 1 commit(s) to [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
+5. 📔 Created new repository [jaflorezg77/TercerRepo](https://github.com/jaflorezg77/TercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 ## 🛠️ Habilidades Técnicas
