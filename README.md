@@ -18,8 +18,6 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovador
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/LIDR-academy/AI4Devs-BACKEND-RO-1/pull/8) in [LIDR-academy/AI4Devs-BACKEND-RO-1](https://github.com/LIDR-academy/AI4Devs-BACKEND-RO-1)<br>
-2. 🔱 Forked [jaflorezg77/AI4Devs-BACKEND-RO-1](https://github.com/jaflorezg77/AI4Devs-BACKEND-RO-1) from [LIDR-academy/AI4Devs-BACKEND-RO-1](https://github.com/LIDR-academy/AI4Devs-BACKEND-RO-1)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 ## 🛠️ Habilidades Técnicas
