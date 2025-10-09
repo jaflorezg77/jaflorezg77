@@ -18,7 +18,6 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovador
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [jaflorezg77/AI4Devs-QA-RO-1](https://github.com/jaflorezg77/AI4Devs-QA-RO-1) from [LIDR-academy/AI4Devs-QA-RO-1](https://github.com/LIDR-academy/AI4Devs-QA-RO-1)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 ## 🛠️ Habilidades Técnicas
